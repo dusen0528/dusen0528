@@ -18,11 +18,10 @@
 
 ## 💻 Algorithm Problem Solving
 
-저는 알고리즘 문제 해결 능력을 키우기 위해 꾸준히 노력하고 있습니다. 다음 플랫폼들에서 문제를 풀고 있습니다:
+저는 알고리즘 문제 해결 능력을 키우기 위해 틈틈히 다음 플랫폼들에서 문제를 풀고 있습니다 ;)
 
 [![BOJ](https://img.shields.io/badge/백준-007396?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABOFBMVEUAAAD9/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f3///+nGZQbAAAAZnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYz3nMAAAAAWJLR0RzQQk9zgAAAAd0SU1FB+cEEQkhOskwVA4AAABcSURBVAjXY2BgYGRiZmFlY+fg5OLm4eXjFxAUEhYRFROXkJSSlpGVk1dQVFJWUVVT19BkAAJNLW0dXT19A0MjYxNTM3MLSytrG1s7ewdHJ2cXVzd3D08vbx8AehwHYndumFAAAAAASUVORK5CYII=&logoColor=white)](https://www.acmicpc.net/user/your_username)
 [![Programmers](https://img.shields.io/badge/프로그래머스-00B8A5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABO1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8qrexcAAAAaXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHzbkF4AAAABYktHRGYs1NklAAAAB3RJTUUH5wQRCSUtEvIyRQAAAF1JREFUCB0FwbENgCAQAMDDyVAO7X8Go5TXEBJqYuHz0tVNH81PU1IRUVUTK0PWnF7bO7SyBbDPfriBs7kO2Uc6zRYr6pbe7edWrO6PvVlxKmTYc16OShXMFLflH6M4CmjjjUK8AAAAAElFTkSuQmCC&logoColor=white)](https://programmers.co.kr/learn/challenges)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your_username/)
 
 ## 📊 GitHub Stats
 
