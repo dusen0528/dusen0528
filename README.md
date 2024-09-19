@@ -23,8 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dusen0528&show_icons=true&theme=radical)
-
+![Inho GitHub stats](https://github-readme-stats.vercel.app/api?username=dusen0528&show_icons=true&theme=highcontrast)
 ## 🌟 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusen0528&layout=compact&theme=radical)
