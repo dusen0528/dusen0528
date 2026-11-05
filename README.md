@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Inho Choi — I make LLMs show their work." />
+  <img src="assets/header.svg" width="100%" alt="Inho Choi — AI/Backend Engineer" />
 </p>
 
 <p align="center">
@@ -9,22 +9,6 @@
   &nbsp;·&nbsp;
   <a href="mailto:dusen3846@gmail.com">Email</a>
 </p>
-
-<br />
-
-**Now** &nbsp; Agent loops on open-source LLMs, inside an air-gapped network.<br />
-**Also** &nbsp; Turning robotics research code into experiments anyone can rerun.<br />
-**Before** &nbsp; Voice AI, from raw street audio to a model running on a phone.
-
-<details>
-<summary>한국어</summary>
-<br />
-
-**지금** &nbsp; 폐쇄망 안에서 오픈소스 LLM으로 에이전트를 굴리고 있어요.<br />
-**같이** &nbsp; 로봇 연구 코드를 누구나 다시 돌릴 수 있는 실험으로 바꾸는 중.<br />
-**전에** &nbsp; 음성 AI를 현장 녹음부터 폰 위에서 도는 모델까지.
-
-</details>
 
 <br />
 
