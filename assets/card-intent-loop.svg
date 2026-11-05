@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+  <defs><style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", "Malgun Gothic", Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SF Mono", "JetBrains Mono", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+  </style></defs>
+  <rect x="0.5" y="0.5" width="579" height="249" rx="20" fill="#0B0C0F" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="36" y="58" class="mono" font-size="12" letter-spacing="2.5" fill="#6EE7B7">PROJECT 01</text>
+  <text x="544" y="58" text-anchor="end" class="sans" font-size="20" fill="#52525B">↗</text>
+  <text x="34" y="104" class="sans" font-size="32" font-weight="700" letter-spacing="-0.8" fill="#F4F4F5">Intent Loop</text>
+  <text x="36" y="146" class="sans" font-size="18" fill="#D4D4D8">So your AI coding agent stops</text>
+  <text x="36" y="172" class="sans" font-size="18" fill="#D4D4D8">forgetting what you asked for.</text>
+  <text x="36" y="200" class="sans" font-size="15" fill="#71717A">AI가 코딩하다 내 의도를 까먹지 않게.</text>
+  <text x="36" y="226" class="mono" font-size="12" fill="#52525B">agents · constraints · ai coding</text>
+</svg>

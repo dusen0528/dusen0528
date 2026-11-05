@@ -1,75 +1,42 @@
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=130&section=header"/>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!;Welcome+to+Inho's+GitHub;Backend+Engineer" />
-  </a>
+  <img src="assets/header.svg" width="100%" alt="Inho Choi — I make LLMs show their work." />
 </p>
 
 <p align="center">
-  <b>No pressure, no diamonds.</b>
+  <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%B8-%EC%B5%9C-784356437/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://inho-self-introduction.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:dusen3846@gmail.com">Email</a>
 </p>
 
+<br />
 
-## 🛠 Tech Stack
+**Now** &nbsp; Agent loops on open-source LLMs, inside an air-gapped network.<br />
+**Also** &nbsp; Turning robotics research code into experiments anyone can rerun.<br />
+**Before** &nbsp; Voice AI, from raw street audio to a model running on a phone.
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+<details>
+<summary>한국어</summary>
+<br />
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=js,react,html" />
+**지금** &nbsp; 폐쇄망 안에서 오픈소스 LLM으로 에이전트를 굴리고 있어요.<br />
+**같이** &nbsp; 로봇 연구 코드를 누구나 다시 돌릴 수 있는 실험으로 바꾸는 중.<br />
+**전에** &nbsp; 음성 AI를 현장 녹음부터 폰 위에서 도는 모델까지.
 
-**Database**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</details>
 
-**Infra / DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux,git" />
-
-**AI / ML**  
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-<img height="42" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>
-
----
-
-## Exploring LLM / RAG
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/VectorDB-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-475569?style=for-the-badge" />
-</p>
-
----
-
-## 🐾 Git Animals
+<br />
 
 <p align="center">
-  <a href="https://github.com/git-goods/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/dusen0528"
-      width="600"
-    />
-  </a>
+  <a href="https://github.com/dusen0528?tab=repositories&q=intent"><img src="assets/card-intent-loop.svg" width="49%" alt="Intent Loop" /></a>
+  <a href="https://github.com/dusen0528/wakeio-security-ci"><img src="assets/card-wakeio.svg" width="49%" alt="Wakeio Security CI" /></a>
 </p>
 
----
-
-## 📊 GitHub Activity
+<br />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dusen0528&theme=tokyonight"/>
+  <a href="https://github.com/git-goods/gitanimals"><img src="https://render.gitanimals.org/farms/dusen0528" width="600" alt="GitAnimals farm" /></a>
 </p>
 
----
-
-## 📫 Contact
-
-- 📧 Email: dusen3846@gmail.com  
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=footer"/>
+<p align="center"><sub>No pressure, no diamonds.</sub></p>
