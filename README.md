@@ -29,7 +29,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/dusen0528?tab=repositories&q=intent"><img src="assets/card-intent-loop.svg" width="49%" alt="Intent Loop" /></a>
+  <a href="https://github.com/dusen0528/intent-loop"><img src="assets/card-intent-loop.svg" width="49%" alt="Intent Loop" /></a>
   <a href="https://github.com/dusen0528/wakeio-security-ci"><img src="assets/card-wakeio.svg" width="49%" alt="Wakeio Security CI" /></a>
 </p>
 
